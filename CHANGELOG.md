@@ -1,6 +1,9 @@
 # 更新日志 (CHANGELOG)
 
 
+## [V1.0.14b] - 2026-09-17
+- Add permissions section to workflow file
+
 ## [V1.0.13b] - 2026-09-17
 - Update DarkWeb-Forums-Tracker.yml
 
